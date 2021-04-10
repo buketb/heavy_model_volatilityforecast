@@ -1,4 +1,4 @@
-# application_heavy
+# application_heavy_volatility_forecast
 An application of Shephard &amp; Sheppard (2010) via highfrequency package of R.
 
 Shephard, N. and K. Sheppard (2010). Realising the future: forecasting with high frequency based volatility (heavy) models. Journal of Applied Econometrics 25, 197-231.
